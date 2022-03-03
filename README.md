@@ -5,8 +5,11 @@
 推送订单采用简易直观易懂的图片形式。
 
 MiSans-Medium.ttf 为小米免费商用字体
+
 下载地址：https://cdn.cnbj1.fds.api.mi-img.com/vipmlmodel/font/MiSans/MiSans.zip
+
 下载文件放置主目录即可。
+
 
 效果如下：
 
